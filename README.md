@@ -2,7 +2,7 @@
 How to Use Redis Server as a Cache for your App
 
 
-# application.properties
+## application.properties
 
 spring.cache.type=redis
 spring.redis.host=localhost
